@@ -1,0 +1,25 @@
+2024-11-21 18:16:43: Service is starting...
+2024-11-21 18:16:43: Script SQL executado com sucesso: D:\micronet\salto-automation\bin\Release\net8.0-windows\SQLScripts\xsetup.sql
+2024-11-21 18:16:43: Script SQL executado com sucesso: D:\micronet\salto-automation\bin\Release\net8.0-windows\SQLScripts\requestRecordsCode.sql
+2024-11-21 18:16:43: Script SQL executado com sucesso: D:\micronet\salto-automation\bin\Release\net8.0-windows\SQLScripts\requestConfig.sql
+2024-11-21 18:16:43: Service started successfully.
+2024-11-21 18:16:43: Starting work execution.
+2024-11-21 18:16:43: Access token refreshed successfully.
+2024-11-21 18:16:43: timeToAlive atualizado com sucesso.
+2024-11-21 18:16:44: ID do Site Selecionado: 07cdf9ac-3681-4dcf-b8d0-ddb81197b0b3
+2024-11-21 18:16:44: Work execution completed successfully.
+2024-11-21 18:16:44: Requisição pendente encontrada. recordID: 1, Nome: simone teste, Email: pistachiosalgado3@gmail.com, ReservationID: 101, ExpiryDate: 27/10/2024 00:00:00
+2024-11-21 18:16:44: Nenhum access group encontrado para recordID 1 com o ReservationID 12
+2024-11-21 18:16:44: Requisição pendente encontrada. recordID: 2, Nome: elimia, Email: 2, ReservationID: 101, ExpiryDate: 25/10/2024 17:00:00
+2024-11-21 18:16:44: Nenhum access group encontrado para recordID 2 com o ReservationID 13
+2024-11-21 18:16:44: Requisição pendente encontrada. recordID: 5, Nome: lari, Email: 2, ReservationID: 101, ExpiryDate: 28/10/2024 00:00:00
+2024-11-21 18:16:44: Nenhum access group encontrado para recordID 5 com o ReservationID 888
+2024-11-21 18:16:44: Requisição pendente encontrada. recordID: 6, Nome: teste 2, Email: pistachiosalgado3@gmail.com, ReservationID: 101, ExpiryDate: 28/10/2024 00:00:00
+2024-11-21 18:16:44: Nenhum access group encontrado para recordID 6 com o ReservationID 777
+2024-11-21 18:16:44: Requisição pendente encontrada. recordID: 7, Nome: Helder, Email: bctsalgado@gmail.com, ReservationID: 101, ExpiryDate: 25/11/2024 17:30:00
+2024-11-21 18:16:44: A data de validade 25/11/2024 17:30:00 ainda não expirou para recordID 7. Não verificando os access groups.
+2024-11-21 18:16:44: Requisição pendente encontrada. recordID: 8, Nome: Francisco, Email: bctsalgado@gmail.com, ReservationID: 101, ExpiryDate: 20/11/2024 00:00:00
+2024-11-21 18:16:45: Access group encontrado para recordID 8: pmsReservation: 111
+2024-11-21 18:16:45: Access group com ID d9e169b0-8b07-453e-a8f4-8c88398517f3 deletado com sucesso.
+2024-11-21 18:16:45: Registro com recordID 8 atualizado com sucesso.
+2024-11-21 18:16:45: Não é possível apagar o usuário bctsalgado@gmail.com pois já existe outra reserva utilizando o mesmo usuário.
